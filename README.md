@@ -5,5 +5,6 @@ Mobile App Development Project
 - Language Used- Java
 
 <h3>Features:</h3>
+
 - Location can be changed by typing into the search bar
 - Details shown- Wind Speed, Temperature, Weather Condition, Future forecasts
